@@ -2,5 +2,5 @@
 - 👀 I’m interested in database systems
 - 🌱 I’m currently learning database systems and security
 - 💞️ I’m looking to collaborate on ...
-- 📫 Email: gschmidt1@una.edu
+- 📫 Email: gsorensenschmidt@gmail.com
 - ⚡ Fun fact: I love to sail!
