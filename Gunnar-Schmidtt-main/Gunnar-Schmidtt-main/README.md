@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Gunnar Schmidt
+- 👀 I’m interested in database systems
+- 🌱 I’m currently learning database systems and security
+- 💞️ I’m looking to collaborate on ...
+- 📫 Email: gsorensenschmidt@gmail.com
+- ⚡ Fun fact: I love to sail!
